@@ -1,9 +1,12 @@
+## Sarah Stevens' notes for teaching 
 
-Go to the link below and enter the following room name -
-https://b.socrative.com/login/student/
-Room Name: 6HJLONFT
+### Socrative setup
+Go to the link below and enter the following room name -  
+[https://b.socrative.com/login/student/](https://b.socrative.com/login/student/)
+Room Name: 6HJLONFT  
 
 
+### NPP Setup
 Setup for opening npp from the shell (check first for path variation, see below) to add to .bash_profile:
 ```
 function npp {
@@ -18,7 +21,6 @@ function npp {
 }
 export -f npp;
 ```
-ADD setup for git editor?? - maybe just copy this when you do it
 
 
 
